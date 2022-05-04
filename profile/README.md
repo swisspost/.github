@@ -1,0 +1,2 @@
+# Welcome to Swiss Post on GitHub 📯
+We are on our journey to the "Swiss Post of tomorrow". A dynamic country needs an equally dynamic postal service. We'll meet new needs and provide the necessary digital capabilities. And we believe in the power of open source by supporting, contributing and releasing software.
