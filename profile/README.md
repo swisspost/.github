@@ -8,4 +8,6 @@ On top of our open source repositories hosted on GitHub, you might find these ad
 > 🚀 Browse our API catalog on the [API portal](https://developer.apis.post.ch/ui/home).<br />
 > 🌐 Explore our [OpenData catalog](https://opendata.swiss/de/organization/swisspost).
 
+We gave adopted the code of conduct defined by the [Contributor Covenant](http://contributor-covenant.org/) to clarify expected behavior in our community. For more information, see our [Code of Conduct](https://github.com/swisspost/.github/blob/main/profile/CODE_OF_CONDUCT.md).
+
 You may also drop us an e-mail if you have further questions regarding our Open Source Program: oss@post.ch.
